@@ -11,7 +11,7 @@
 Feel free to reach out to me through:
 - Email: [halima_tahiri@yahoo.com](mailto:halima_tahiri@yahoo.com)
 - LinkedIn: [Halima Tahiri](https://www.linkedin.com/in/halima-tahiri/)
-- Twitter: [@Ysleepynoodle13](https://twitter.com/sleepynoodle13)
+- Twitter: [@sleepynoodle13](https://twitter.com/sleepynoodle13)
 <!---
 sleepycookiemomster/sleepycookiemomster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
